@@ -1,1 +1,1 @@
-# Woman-in-Data-Science-competition
+# Women-in-Data-Science-competition
